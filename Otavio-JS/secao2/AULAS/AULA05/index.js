@@ -1,0 +1,1 @@
+console.log('Olá computador, como você está ?')
